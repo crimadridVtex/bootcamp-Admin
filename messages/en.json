@@ -1,0 +1,23 @@
+{
+  "admin-example.navigation.label-group": "My apps",
+  "admin-example.navigation.label-table": "Example table",
+  "admin-example.navigation.search.kws": "test, mock, fake",
+  "admin-example.navigation.details.search.kws": "details, mock, test, hello",
+  "admin-example.navigation.table.search.kws": "table, mock, test, bye",
+  "admin-example.hello-world": "Example Admin",
+  "admin-example.details": "Details page",
+  "product-day.title": "Product day",
+  "product-day.navigation.label-table": "Product Day",
+  "product-day.navigation.search.kws": "product day, highlight",
+  "product-day.inputsearch.label": "Search product",
+  "product-day.inputmodal.placeholder": "Type highlight",
+  "product-day.modal.button.save": "Save",
+  "product-day.modal.input.placeholder": "Click on the button below to save highlight",
+  "admin/my-apss.productday.table.idProduct": "Id Product",
+  "admin/my-apss.productday.table.productName": "Name",
+  "admin/my-apss.productday.table.isActiveProduct": "Active",
+  "admin/my-apss.productday.table.idSku": "Id SKU",
+  "admin/my-apss.productday.table.skuName": "SKU Name",
+  "admin/my-apss.productday.table.isActiveSku": "Active",
+  "admin/my-apss.productday.table.highlight": "Highlight"
+}

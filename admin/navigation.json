@@ -1,0 +1,19 @@
+{
+  "section": "other",
+  "path": "/admin/my-apps",
+  "titleId": "admin-example.navigation.label-group",
+  "searchKeyWordsHelpers": "admin-example.navigation.search.kws",
+  "LMProductId": "19",
+  "subSectionItems": [
+    {
+      "labelId": "admin-example.navigation.label-table",
+      "path": "/admin/my-apps/example",
+      "searchKeyWordsHelpers": "admin-example.navigation.table.search.kws"
+    },
+    {
+      "labelId": "product-day.navigation.label-table",
+      "path": "/admin/my-apps/product-day",
+      "searchKeyWordsHelpers": "product-day.navigation.search.kws"
+    }
+  ]
+}

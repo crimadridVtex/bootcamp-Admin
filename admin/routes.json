@@ -1,0 +1,14 @@
+{
+  "admin.app.example": {
+    "component": "AdminExample",
+    "path": "/admin/app/my-apps/example"
+  },
+  "admin.app.example-detail": {
+    "component": "AdminExampleDetail",
+    "path": "/admin/app/my-apps/example/:id"
+  },
+  "admin.app.productday": {
+    "component": "ProductDay",
+    "path": "/admin/app/my-apps/product-day"
+  }
+}

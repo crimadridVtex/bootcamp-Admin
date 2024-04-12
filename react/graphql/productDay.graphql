@@ -1,0 +1,21 @@
+query products($term: String!, $page: Int!, $pageSize: Int!) {
+  products(term: $term, page: $page, pageSize: $pageSize)
+    @context(provider: "vtex.catalog-graphql") {
+    items {
+      id
+      name
+      isActive
+      skus {
+        id
+        skuName
+        isActive
+      }
+    }
+    paging {
+      page
+      perPage
+      total
+      pages
+    }
+  }
+}

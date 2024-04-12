@@ -1,0 +1,21 @@
+{
+  "admin-example.navigation.label-group": "Mis apps",
+  "admin-example.navigation.label-table": "Exemplo de tabela",
+  "admin-example.navigation.search.kws": "teste, mock, fake",
+  "admin-example.navigation.details.search.kws": "detalhe, mock, test, oi",
+  "admin-example.navigation.table.search.kws": "tabela, mock, test, tchau",
+  "admin-example.hello-world": "Admin de exemplo",
+  "product-day.title": "Producto del día",
+  "product-day.navigation.label-table": "Product Day",
+  "product-day.navigation.search.kws": "Producto del día, destacado",
+  "product-day.inputsearch.label": "Buscar producto",
+  "product-day.modal.button.save": "Salvar",
+  "product-day.modal.input.placeholder": "Clique no botão abaixo para salvar o destaque",
+  "admin/my-apss.productday.table.idProduct": "Id Producto",
+  "admin/my-apss.productday.table.productName": "Nombre",
+  "admin/my-apss.productday.table.isActiveProduct": "Activo",
+  "admin/my-apss.productday.table.idSku": "Id SKU",
+  "admin/my-apss.productday.table.skuName": "SKU Nombre",
+  "admin/my-apss.productday.table.isActiveSku": "Activo",
+  "admin/my-apss.productday.table.highlight": "Destacado"
+}
